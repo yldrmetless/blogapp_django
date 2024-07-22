@@ -1,0 +1,1 @@
+virtual env kurmamızın sebebi, her projeye paket kurarken global olarak kurmamak bu sayede oluşabilecek sorunlardan kurtulmuş oluruz ve projemizi başka bir pcye taşıyacağımız zaman sorun oluşmamış olur projedeki mevcut paketleri de taşımış oluruz
